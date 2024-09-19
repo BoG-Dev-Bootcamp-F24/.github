@@ -13,4 +13,4 @@ Exercises
 - [Exercise 4](https://github.com/BoG-Dev-Bootcamp-F24/exercises/tree/main/exercise-4)
 
 Projects
-- [Project 1](https://github.com/BoG-Dev-Bootcamp-F24/exercises/tree/main/exercise-4)
+- [Project 1](https://github.com/BoG-Dev-Bootcamp-F24/project1)
