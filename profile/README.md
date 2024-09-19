@@ -6,7 +6,11 @@ Welcome to the Dev Bootcamp F24 Organization! This is where all the course lectu
 ## Getting Started
 Here are the steps Bootcampers will take in order to get started with the Org. 
 
+Exercises
 - [Exercise 1](https://github.com/BoG-Dev-Bootcamp-F24/exercises/tree/main/exercise-1)
 - [Exercise 2](https://github.com/BoG-Dev-Bootcamp-F24/exercises/tree/main/exercise-2)
 - [Exercise 3](https://github.com/BoG-Dev-Bootcamp-F24/exercises/tree/main/exercise-3)
 - [Exercise 4](https://github.com/BoG-Dev-Bootcamp-F24/exercises/tree/main/exercise-4)
+
+Projects
+- [Project 1](https://github.com/BoG-Dev-Bootcamp-F24/exercises/tree/main/exercise-4)
