@@ -12,6 +12,7 @@ Exercises
 - [Exercise 3](https://github.com/BoG-Dev-Bootcamp-F24/exercises/tree/main/exercise-3)
 - [Exercise 4](https://github.com/BoG-Dev-Bootcamp-F24/exercises/tree/main/exercise-4)
 - [Exercise 5](https://github.com/BoG-Dev-Bootcamp-F24/exercises/tree/main/exercise-5)
+- [Exercise 6](https://github.com/BoG-Dev-Bootcamp-F24/exercises/tree/main/exercise-6)
 
 Projects
 - [Project 1](https://github.com/BoG-Dev-Bootcamp-F24/project1)
